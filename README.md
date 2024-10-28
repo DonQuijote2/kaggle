@@ -22,15 +22,27 @@ Ce projet est dédié à l'apprentissage et à l'expérimentation de différente
 
 Les méthodes et modèles que j'explore incluent, mais ne se limitent pas à :
 
-- **Deep Learning**
+- **Deep Learning** (NLP- Computer Vision)
   - Réseaux de neurones convolutifs (CNN)
-  - Réseaux de neurones récurrents (RNN)
+  - Réseaux de neurones récurrents (RNN, LSTM)
   - Transformers
 - **Machine Learning**
   - Arbres de décision
   - Forêts aléatoires
   - Régression linéaire et logistique
   - Support Vector Machines (SVM)
+  - Prédiction de série temporelle
+
+## Cas d'Usage
+Classification de courriels
+Prédiction de défauts de paiement
+Prédiction de l'attrition des clients
+Analyse de sentiments
+Prédiction des ventes
+Diagnostic médical
+Systèmes de recommandation
+Segmentation de clients
+Prédiction des prix immobiliers
 
 ## Contribuer
 
