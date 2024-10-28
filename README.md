@@ -29,6 +29,7 @@ Les méthodes et modèles que j'explore incluent, mais ne se limitent pas à :
 - **Machine Learning**
   - Arbres de décision
   - Forêts aléatoires
+  - KNN
   - Régression linéaire et logistique
   - Support Vector Machines (SVM)
   - Prédiction de série temporelle
